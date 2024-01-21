@@ -1,4 +1,4 @@
-# FDA-Adverse-Events-Analysis
+# FDA-Adverse-Events-Analysis 📊
 
 My inspiration for this project stemmed from my passionate interest in public health and safety. The realization that consumer products regulated by the FDA, though generally safe, can occasionally lead to adverse events sparked a curiosity to delve deeper into this area. The goal of mine was to leverage data analytics to uncover patterns and insights that could potentially help in improving product safety standards and contribute to the well-being of consumers.
 
